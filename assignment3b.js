@@ -1,5 +1,5 @@
 //NHIF QUESTION
-let income = 7900.999999
+let income = 7900000000
 if (income >= 0 && income < 5000) {
     console.log("Your Monthly Contribution is Ksh 150.00")
 }
